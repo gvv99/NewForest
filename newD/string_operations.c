@@ -6,7 +6,7 @@ size_t my_strlen(char *s)
 
    while (*p)
       ++p;
-
+	we added some nonsence here to correct later
    return (p - s);
 }
 
